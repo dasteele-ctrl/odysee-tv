@@ -27,16 +27,16 @@ This app is distributed as an APK and must be sideloaded. It is not an official 
 ### Method 1: Install using Downloader (recommended)
 
 This is probably the easiest method for most Android TV users.
-
-(Android Downloader Short Code: 3833617)
-
 1. Download the latest `app-debug.apk` from the project's GitHub Releases page.
 2. Host the APK on a web server that your TV can access. Alternatively, use a direct download link if one is provided by the project maintainer.
-3. Install the **Downloader** app on your Google TV or Android TV device.
-4. Open Downloader and enter the APK's download URL.
-5. Download the APK and open it to begin installation.
-6. If prompted, allow Downloader to install unknown apps. Depending on your device, this setting may be under **Settings → Apps → Special app access → Install unknown apps**.
-7. Follow the installation prompts, then launch Odysee TV.
+
+(Android Downloader Short Code: 3833617)
+   
+4. Install the **Downloader** app on your Google TV or Android TV device.
+5. Open Downloader and enter the APK's download URL.
+6. Download the APK and open it to begin installation.
+7. If prompted, allow Downloader to install unknown apps. Depending on your device, this setting may be under **Settings → Apps → Special app access → Install unknown apps**.
+8. Follow the installation prompts, then launch Odysee TV.
 
 *Note:* Android TV settings and menu names vary by device and software version. Only allow APK installation from sources you trust.
 

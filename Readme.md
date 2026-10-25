@@ -27,7 +27,7 @@ This app is distributed as an APK and must be sideloaded. It is not an official 
 ### Method 1: Install using Downloader (recommended)
 
 This is probably the easiest method for most Android TV users.
-
+(Android Downloader Short Code: 3833617)
 1. Download the latest `app-debug.apk` from the project's GitHub Releases page.
 2. Host the APK on a web server that your TV can access. Alternatively, use a direct download link if one is provided by the project maintainer.
 3. Install the **Downloader** app on your Google TV or Android TV device.

@@ -61,6 +61,11 @@ The resulting APK is normally located at:
 ```text
 app/build/outputs/apk/debug/app-debug.apk
 ```
+### Testing
+
+Tested on the onn. 4K Plus Google TV box. All available videos tested played reliably, including fullscreen playback. Videos that were not yet released could not be played, as expected.
+
+Other Android TV devices have not yet been tested.
 
 ## Disclaimer
 

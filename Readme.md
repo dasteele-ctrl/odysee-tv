@@ -63,7 +63,7 @@ app/build/outputs/apk/debug/app-debug.apk
 ```
 ### Testing
 
-Tested on the onn. 4K Plus Google TV box. All available videos tested played reliably, including fullscreen playback. Videos that were not yet released could not be played, as expected.
+Tested on the onn. 4K Plus Google TV box. All available videos tested played reliably, including fullscreen playback.
 
 Other Android TV devices have not yet been tested.
 

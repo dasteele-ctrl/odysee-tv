@@ -1,3 +1,7 @@
+## Screenshot
+
+![Odysee TV running on Google TV](odysee-tv-screenshot.png)
+
 # Odysee TV Remote
 
 An unofficial Android TV app for watching [Odysee](https://odysee.com/) on your television using a regular TV remote.

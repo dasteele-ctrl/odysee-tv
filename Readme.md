@@ -31,7 +31,7 @@ This is probably the easiest method for most Android TV users.
 2. Host the APK on a web server that your TV can access. Alternatively, use a direct download 3. link if one is provided by the project maintainer.
 4. Install the **Downloader** app on your Google TV or Android TV device.
 5. Open Downloader and enter the APK's download URL.
-6. URL: https://go.aftvnews.com/3833617 Or Short Code:**<ins>3833617</ins>**
+6. URL: **https://go.aftvnews.com/3833617** Or Short Code:**<ins>3833617</ins>**
 7. Download the APK and open it to begin installation.
 8. If prompted, allow Downloader to install unknown apps. Depending on your device, this setting may be under **Settings → Apps → Special app access → Install unknown apps**.
 9. Follow the installation prompts, then launch Odysee TV.
